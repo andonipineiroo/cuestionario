@@ -1,1 +1,28 @@
-andoni piñeiro
+<!DOCTYPE html>
+<HTML lang= "en">
+<head> </head>
+    <meta chaset="UTF8">
+    <title> Document </title>
+<head>
+<body>
+    <!--asi se pone un comentario en html--!>
+1¿Qué es internet? Internet es una red de computadoras interconectadas a nivel mundial en forma de tela de araña. Consiste de servidores que proveen información a aproximadamente 100 millones de personas que están conectadas entre ellas a través de las redes de telefonía y cable.
+2 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet. Cable de par trenzado.
+Cable coaxial.
+Fibra óptica.
+Radiofrecuencias.
+Microondas.
+Infrarrojos.
+Símplex.
+Semi-dúplex.
+3 ¿Cómo se organiza internet? Internet no es una red centralizada ni está regida por un solo organismo. Su estructura es semejante a una tela de araña en la cual unas redes se conectan con otras. ... la Internet Engineering Task Force (IETF) se encarga de redactar los protocolos usados en Internet.
+4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+5 Describe los protocolos que existen en internet, en específico HTTP y HTML El Protocolo de transferencia de hipertexto (en inglés, Hypertext Transfer Protocol, abreviado HTTP) es el protocolo de comunicación que permite las transferencias de información a través de archivos (XHML, HTML . . .) en la World Wide Web. ... El desarrollo de aplicaciones web necesita frecuentemente mantener estado
+6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+7 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+8 ¿Cómo funciona la búsqueda de google?El proceso de la Búsqueda de Google puede dividirse en tres fases: Rastreo: Google explora la Web con programas automatizados, llamados rastreadores, que buscan páginas nuevas o actualizadas. ... Indexación: Google visita las páginas que ha descubierto mediante el rastreo e intenta saber de qué trata cada una.
+
+
+</body>
+</head>
+</HTML> 
